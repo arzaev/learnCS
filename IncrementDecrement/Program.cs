@@ -7,6 +7,9 @@ namespace IncrementDecrement
         static void Main(string[] args)
         {
             int a = 0;
+
+            a = ++a * a;
+
             Console.WriteLine(a);
         }
     }
