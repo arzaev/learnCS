@@ -6,7 +6,8 @@ namespace LoopFor
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            int limit = int.Parse(Console.ReadLine());
+            for (int i = 0; i < limit; i++)
             {
                 Console.WriteLine(i);
             }
