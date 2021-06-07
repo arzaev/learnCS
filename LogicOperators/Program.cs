@@ -13,8 +13,11 @@ namespace LogicOperators
     {
         static void Main(string[] args)
         {
+
+            int fanSpeed = 3000;
+
             bool isHighTemperature = true;
-            bool hasNoCooling = true;
+            bool hasNoCooling = fanSpeed <= 0;
 
             if (isHighTemperature || hasNoCooling)
             {

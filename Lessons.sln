@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse2", "IfElse2\IfElse2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicOperators", "LogicOperators\LogicOperators.csproj", "{2AAB002F-695D-43C6-ADCF-FB6A7B44E71E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchOne", "SwitchOne\SwitchOne.csproj", "{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2AAB002F-695D-43C6-ADCF-FB6A7B44E71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AAB002F-695D-43C6-ADCF-FB6A7B44E71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AAB002F-695D-43C6-ADCF-FB6A7B44E71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
