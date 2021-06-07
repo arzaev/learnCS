@@ -23,10 +23,22 @@ namespace LoopFor2
                 Console.WriteLine("for 2: " + i);
             }
 
-            for (int u = 0, j = 5; u < 10; u++)
+            for (int u = 0, j = 5; u < 10 && j < 12; u++, j++)
             {
                 Console.WriteLine("u " + u);
                 Console.WriteLine("j " + j);
+            }
+
+            Console.WriteLine("5 to 0");
+            for (int bar = 5; bar >= 0; bar--)
+            {
+                Console.WriteLine(bar);
+            }
+
+            for (int fi = 0, v = 0; fi < 5; fi++, v--)
+            {
+                Console.WriteLine("v: " + v);
+                Console.WriteLine("fi: " + fi);
             }
 
             Console.ReadLine();
