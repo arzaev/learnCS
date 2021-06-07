@@ -10,15 +10,23 @@ namespace SwitchOne
             switch (a)
             {
                 case 1:
-                    Console.WriteLine("You typed one");
-                    break;
                 case 2:
-                    Console.WriteLine("You typed two");
+                    Console.WriteLine("You are typed number one or two");
                     break;
                 default:
                     Console.WriteLine("Number is wrong");
                     break;
             }
+
+            string b = Console.ReadLine();
+            
+            switch (b)
+            {
+                case "+":
+                    Console.WriteLine("You are typed +");
+                    break;
+            }
+                
+            }
         }
     }
-}
