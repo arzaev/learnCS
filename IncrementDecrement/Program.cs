@@ -6,9 +6,10 @@ namespace IncrementDecrement
     {
         static void Main(string[] args)
         {
-            int a = 0;
+            int a = 1;
 
-            a = ++a * a;
+            a = ++a * a; // 4
+            // a = a++ * a; --> 2
 
             Console.WriteLine(a);
         }

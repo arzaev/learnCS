@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons", "Lessons\Lessons.csproj", "{F6C40B5C-FBC6-47F0-BF6B-F4C5FE408F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lessons", "Lessons\Lessons.csproj", "{F6C40B5C-FBC6-47F0-BF6B-F4C5FE408F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementDecrement", "IncrementDecrement\IncrementDecrement.csproj", "{B4F63D8A-E1B1-4866-A0B2-D6A0DB159683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncrementDecrement", "IncrementDecrement\IncrementDecrement.csproj", "{B4F63D8A-E1B1-4866-A0B2-D6A0DB159683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B4F63D8A-E1B1-4866-A0B2-D6A0DB159683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4F63D8A-E1B1-4866-A0B2-D6A0DB159683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4F63D8A-E1B1-4866-A0B2-D6A0DB159683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
