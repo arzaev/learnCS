@@ -6,7 +6,13 @@ namespace WhileOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int count = 0;
+            int limit = int.Parse(Console.ReadLine());
+            while (count < limit)
+            {
+                count++;
+                Console.WriteLine(count);
+            }
         }
     }
 }
