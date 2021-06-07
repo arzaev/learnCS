@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileOne", "WhileOne\WhileO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileOneHomeWork", "WhileOneHomeWork\WhileOneHomeWork.csproj", "{388FF4A7-9C92-425E-94BC-3537BA34C0BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{2805945A-D907-4014-A820-29CAEC721505}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{388FF4A7-9C92-425E-94BC-3537BA34C0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{388FF4A7-9C92-425E-94BC-3537BA34C0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{388FF4A7-9C92-425E-94BC-3537BA34C0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2805945A-D907-4014-A820-29CAEC721505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2805945A-D907-4014-A820-29CAEC721505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2805945A-D907-4014-A820-29CAEC721505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2805945A-D907-4014-A820-29CAEC721505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
