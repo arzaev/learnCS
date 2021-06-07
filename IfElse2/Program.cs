@@ -19,7 +19,8 @@ namespace IfElse2
 
 
             int a;
-            a = int.Parse(Console.ReadLine());
+            // a = int.Parse(Console.ReadLine());
+            a = 5;
             if (a == 5)
             {
                 Console.WriteLine("a eaqle 5");
@@ -28,6 +29,19 @@ namespace IfElse2
             {
                 Console.WriteLine("a is not eaqle 5");
             }
+
+            int b;
+            b = int.Parse(Console.ReadLine());
+            int result = b % 2;
+            if (result == 0)
+            {
+                Console.WriteLine("Number is even");
+            }
+            else
+            {
+                Console.WriteLine("Number is not even");
+            }
+
         }
     }
 }
