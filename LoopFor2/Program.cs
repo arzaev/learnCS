@@ -12,9 +12,21 @@ namespace LoopFor2
 
             //    }
 
-            for (;;)
+            int i = 0;
+            for (; i < 3; i++)
             {
-                Console.WriteLine("for is working");
+                Console.WriteLine("for 1: " + i);
+            }
+
+            for (; i < 5; i++)
+            {
+                Console.WriteLine("for 2: " + i);
+            }
+
+            for (int u = 0, j = 5; u < 10; u++)
+            {
+                Console.WriteLine("u " + u);
+                Console.WriteLine("j " + j);
             }
 
             Console.ReadLine();
