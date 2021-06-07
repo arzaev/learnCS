@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNotEven", "EvenNotEven\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "LoopFor\LoopFor.csproj", "{F6B455EC-222F-4716-8D5C-BFD96C32FAB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor2", "LoopFor2\LoopFor2.csproj", "{827E91B0-2573-47FF-BC85-C09DE76C5FC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F6B455EC-222F-4716-8D5C-BFD96C32FAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6B455EC-222F-4716-8D5C-BFD96C32FAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6B455EC-222F-4716-8D5C-BFD96C32FAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827E91B0-2573-47FF-BC85-C09DE76C5FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827E91B0-2573-47FF-BC85-C09DE76C5FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827E91B0-2573-47FF-BC85-C09DE76C5FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827E91B0-2573-47FF-BC85-C09DE76C5FC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
