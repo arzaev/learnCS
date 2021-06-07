@@ -16,6 +16,7 @@ namespace IfElse
             Console.WriteLine(a != b);
             Console.WriteLine(a > b);
             Console.WriteLine(a < b);
+            Console.WriteLine(a >= b);
         }
     }
 }
