@@ -7,33 +7,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lessons", "Lessons\Lessons.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncrementDecrement", "IncrementDecrement\IncrementDecrement.csproj", "{B4F63D8A-E1B1-4866-A0B2-D6A0DB159683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse", "IfElse\IfElse.csproj", "{5D00A5F1-B0AE-4B77-85CD-B48AB9D59012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse2", "IfElse2\IfElse2.csproj", "{B3C74E59-F584-41F2-ACDD-34EEF2E57436}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse2", "IfElse2\IfElse2.csproj", "{B3C74E59-F584-41F2-ACDD-34EEF2E57436}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicOperators", "LogicOperators\LogicOperators.csproj", "{2AAB002F-695D-43C6-ADCF-FB6A7B44E71E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicOperators", "LogicOperators\LogicOperators.csproj", "{2AAB002F-695D-43C6-ADCF-FB6A7B44E71E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchOne", "SwitchOne\SwitchOne.csproj", "{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchOne", "SwitchOne\SwitchOne.csproj", "{2D1BD31B-59FC-4001-9DD2-DB9AE8410DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typing", "Typing\Typing.csproj", "{692A9121-E9D9-4815-8120-C99F08D871EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Typing", "Typing\Typing.csproj", "{692A9121-E9D9-4815-8120-C99F08D871EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorHomeWork", "CalculatorHomeWork\CalculatorHomeWork.csproj", "{2413F3CD-300A-45FD-8DEF-7D06455D73DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorHomeWork", "CalculatorHomeWork\CalculatorHomeWork.csproj", "{2413F3CD-300A-45FD-8DEF-7D06455D73DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileOne", "WhileOne\WhileOne.csproj", "{D42EB722-FCF2-4E1F-95B7-58BC50E126A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileOne", "WhileOne\WhileOne.csproj", "{D42EB722-FCF2-4E1F-95B7-58BC50E126A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileOneHomeWork", "WhileOneHomeWork\WhileOneHomeWork.csproj", "{388FF4A7-9C92-425E-94BC-3537BA34C0BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileOneHomeWork", "WhileOneHomeWork\WhileOneHomeWork.csproj", "{388FF4A7-9C92-425E-94BC-3537BA34C0BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{2805945A-D907-4014-A820-29CAEC721505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhile", "DoWhile\DoWhile.csproj", "{2805945A-D907-4014-A820-29CAEC721505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNotEven", "EvenNotEven\EvenNotEven.csproj", "{5AC40861-CF2C-4D99-8BD3-1DF15739B14F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenNotEven", "EvenNotEven\EvenNotEven.csproj", "{5AC40861-CF2C-4D99-8BD3-1DF15739B14F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "LoopFor\LoopFor.csproj", "{F6B455EC-222F-4716-8D5C-BFD96C32FAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopFor", "LoopFor\LoopFor.csproj", "{F6B455EC-222F-4716-8D5C-BFD96C32FAB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor2", "LoopFor2\LoopFor2.csproj", "{827E91B0-2573-47FF-BC85-C09DE76C5FC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopFor2", "LoopFor2\LoopFor2.csproj", "{827E91B0-2573-47FF-BC85-C09DE76C5FC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopBreak", "LoopBreak\LoopBreak.csproj", "{E1322CC7-8246-449A-A366-7B345B2DF2D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopBreak", "LoopBreak\LoopBreak.csproj", "{E1322CC7-8246-449A-A366-7B345B2DF2D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopContinue", "LoopContinue\LoopContinue.csproj", "{FA8FE569-B9A5-4A51-A7FF-05D94FA6DAB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopContinue", "LoopContinue\LoopContinue.csproj", "{FA8FE569-B9A5-4A51-A7FF-05D94FA6DAB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopInside", "LoopInside\LoopInside.csproj", "{21DCD7C3-6942-4804-BA0F-39C94782EAA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{FA8FE569-B9A5-4A51-A7FF-05D94FA6DAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8FE569-B9A5-4A51-A7FF-05D94FA6DAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8FE569-B9A5-4A51-A7FF-05D94FA6DAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DCD7C3-6942-4804-BA0F-39C94782EAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DCD7C3-6942-4804-BA0F-39C94782EAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DCD7C3-6942-4804-BA0F-39C94782EAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DCD7C3-6942-4804-BA0F-39C94782EAA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
