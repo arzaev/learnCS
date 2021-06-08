@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopInside", "LoopInside\Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkTriangle", "HomeWorkTriangle\HomeWorkTriangle.csproj", "{04E62A54-4C29-4B96-8A3E-F0B61520D2C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternarn", "Ternarn\Ternarn.csproj", "{43DA68A9-ED11-45F4-9378-55B7CC9A770E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{04E62A54-4C29-4B96-8A3E-F0B61520D2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E62A54-4C29-4B96-8A3E-F0B61520D2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E62A54-4C29-4B96-8A3E-F0B61520D2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DA68A9-ED11-45F4-9378-55B7CC9A770E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DA68A9-ED11-45F4-9378-55B7CC9A770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DA68A9-ED11-45F4-9378-55B7CC9A770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DA68A9-ED11-45F4-9378-55B7CC9A770E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
