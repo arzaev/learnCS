@@ -41,15 +41,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkTriangle", "HomeWor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ternarn", "Ternarn\Ternarn.csproj", "{43DA68A9-ED11-45F4-9378-55B7CC9A770E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List1", "List1\List1.csproj", "{23A7626D-FB06-48DE-9AA5-DA3A3A8D0528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List1", "List1\List1.csproj", "{23A7626D-FB06-48DE-9AA5-DA3A3A8D0528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List2", "List2\List2.csproj", "{0A6108A8-B160-4211-BD6A-10487B2376B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List2", "List2\List2.csproj", "{0A6108A8-B160-4211-BD6A-10487B2376B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLoop", "ArrayLoop\ArrayLoop.csproj", "{FACA9CB9-3F88-4FE9-BE9A-D31FCDA3E7DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayLoop", "ArrayLoop\ArrayLoop.csproj", "{FACA9CB9-3F88-4FE9-BE9A-D31FCDA3E7DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkArray", "HomeWorkArray\HomeWorkArray.csproj", "{064BD1EA-F22B-4D38-B469-D1FBB25AE621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkArray", "HomeWorkArray\HomeWorkArray.csproj", "{064BD1EA-F22B-4D38-B469-D1FBB25AE621}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realArray", "realArray\realArray.csproj", "{E7A184D3-EDF8-49C2-97B8-CA16A58A01DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "realArray", "realArray\realArray.csproj", "{E7A184D3-EDF8-49C2-97B8-CA16A58A01DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexArray", "IndexArray\IndexArray.csproj", "{189171B1-84A9-4582-9118-91B80F567A80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{E7A184D3-EDF8-49C2-97B8-CA16A58A01DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A184D3-EDF8-49C2-97B8-CA16A58A01DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A184D3-EDF8-49C2-97B8-CA16A58A01DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189171B1-84A9-4582-9118-91B80F567A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189171B1-84A9-4582-9118-91B80F567A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189171B1-84A9-4582-9118-91B80F567A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189171B1-84A9-4582-9118-91B80F567A80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
