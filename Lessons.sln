@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepArray", "StepArray\Step
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDimensionalArray", "TreeDimensionalArray\ThreeDimensionalArray.csproj", "{8E548761-720B-4284-835F-CA9833428030}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{8E548761-720B-4284-835F-CA9833428030}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E548761-720B-4284-835F-CA9833428030}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E548761-720B-4284-835F-CA9833428030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
