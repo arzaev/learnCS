@@ -4,15 +4,31 @@ namespace deleteElementFromArray
 {
     class Program
     {
-        static void Main(string[] args)
+
+        static void RemoveAt(ref int[] array, int index)
         {
+            int[] newArray = new int[array.Length - 1];
 
-            static void RemoveAt(ref int[] array, int index)
+            for (int i = 0; i < index; i++)
             {
-
+                newArray[i] = array[i];
             }
 
+            for (int i = index + 1; i < array.Length; i++)
+            {
+                newArray[i - 1] = array[i];
+            }
+
+            array = newArray;
+
+        }
+
+        static void Main(string[] args)
+        {
             int[] myArray = { 1, 4, 6, 2 };
+
+            RemoveAt(ref myArray, 2);
+
         }
     }
 }
