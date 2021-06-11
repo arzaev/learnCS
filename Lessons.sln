@@ -51,23 +51,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkArray", "HomeWorkAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "realArray", "realArray\realArray.csproj", "{E7A184D3-EDF8-49C2-97B8-CA16A58A01DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexArray", "IndexArray\IndexArray.csproj", "{189171B1-84A9-4582-9118-91B80F567A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexArray", "IndexArray\IndexArray.csproj", "{189171B1-84A9-4582-9118-91B80F567A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimensionalArray", "TwoDimensionalArray\TwoDimensionalArray.csproj", "{276E364C-EB6F-4400-8B5D-0C0BE0C83754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoDimensionalArray", "TwoDimensionalArray\TwoDimensionalArray.csproj", "{276E364C-EB6F-4400-8B5D-0C0BE0C83754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimensionalArrayFill", "TwoDimensionalArrayFill\TwoDimensionalArrayFill.csproj", "{731DE3CF-B7A3-4A8D-8A93-6BB5446D12FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoDimensionalArrayFill", "TwoDimensionalArrayFill\TwoDimensionalArrayFill.csproj", "{731DE3CF-B7A3-4A8D-8A93-6BB5446D12FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepArray", "StepArray\StepArray.csproj", "{D55EDC5B-0E10-4BBC-A112-12E9FDF83371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StepArray", "StepArray\StepArray.csproj", "{D55EDC5B-0E10-4BBC-A112-12E9FDF83371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDimensionalArray", "TreeDimensionalArray\ThreeDimensionalArray.csproj", "{8E548761-720B-4284-835F-CA9833428030}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeDimensionalArray", "TreeDimensionalArray\ThreeDimensionalArray.csproj", "{8E548761-720B-4284-835F-CA9833428030}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{E48E4556-0EA2-4D7B-AB21-531BFBFD4C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkMethods", "HomeWorkMethods\HomeWorkMethods.csproj", "{AB4E969E-4174-41F1-889E-338E86909AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkMethods", "HomeWorkMethods\HomeWorkMethods.csproj", "{AB4E969E-4174-41F1-889E-338E86909AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadMethods", "OverloadMethods\OverloadMethods.csproj", "{1DBF4D03-4BB9-4430-B594-90EC0E632322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadMethods", "OverloadMethods\OverloadMethods.csproj", "{1DBF4D03-4BB9-4430-B594-90EC0E632322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visibility", "Visibility\Visibility.csproj", "{287CAA71-AA13-4F52-9C01-F0B6CB069AB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visibility", "Visibility\Visibility.csproj", "{287CAA71-AA13-4F52-9C01-F0B6CB069AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndValues", "RedAndValues\RefAndValues.csproj", "{90EC7604-4DF4-4729-84FA-F015031AC74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullWTH", "NullWTH\NullWTH.csproj", "{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitNull", "UnitNull\UnitNull.csproj", "{250B87CE-D562-4916-8A66-79C13EA34E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinUnitNull", "JoinUnitNull\JoinUnitNull.csproj", "{03981B07-3AD1-4232-816A-802B121901E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditionNull", "conditionNull\conditionNull.csproj", "{270CACC2-C962-41D0-94F8-5A4192E2A171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDudar", "ClassDudar\ClassDudar.csproj", "{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +221,34 @@ Global
 		{287CAA71-AA13-4F52-9C01-F0B6CB069AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{287CAA71-AA13-4F52-9C01-F0B6CB069AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{287CAA71-AA13-4F52-9C01-F0B6CB069AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EC7604-4DF4-4729-84FA-F015031AC74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EC7604-4DF4-4729-84FA-F015031AC74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EC7604-4DF4-4729-84FA-F015031AC74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EC7604-4DF4-4729-84FA-F015031AC74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250B87CE-D562-4916-8A66-79C13EA34E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250B87CE-D562-4916-8A66-79C13EA34E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250B87CE-D562-4916-8A66-79C13EA34E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250B87CE-D562-4916-8A66-79C13EA34E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03981B07-3AD1-4232-816A-802B121901E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03981B07-3AD1-4232-816A-802B121901E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03981B07-3AD1-4232-816A-802B121901E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03981B07-3AD1-4232-816A-802B121901E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270CACC2-C962-41D0-94F8-5A4192E2A171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270CACC2-C962-41D0-94F8-5A4192E2A171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270CACC2-C962-41D0-94F8-5A4192E2A171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270CACC2-C962-41D0-94F8-5A4192E2A171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
