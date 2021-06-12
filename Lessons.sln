@@ -69,27 +69,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadMethods", "Overload
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visibility", "Visibility\Visibility.csproj", "{287CAA71-AA13-4F52-9C01-F0B6CB069AB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndValues", "RedAndValues\RefAndValues.csproj", "{90EC7604-4DF4-4729-84FA-F015031AC74C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefAndValues", "RedAndValues\RefAndValues.csproj", "{90EC7604-4DF4-4729-84FA-F015031AC74C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullWTH", "NullWTH\NullWTH.csproj", "{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullWTH", "NullWTH\NullWTH.csproj", "{A49C6F88-F0F9-4CE6-84AF-84F0CF327765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitNull", "UnitNull\UnitNull.csproj", "{250B87CE-D562-4916-8A66-79C13EA34E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitNull", "UnitNull\UnitNull.csproj", "{250B87CE-D562-4916-8A66-79C13EA34E53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinUnitNull", "JoinUnitNull\JoinUnitNull.csproj", "{03981B07-3AD1-4232-816A-802B121901E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinUnitNull", "JoinUnitNull\JoinUnitNull.csproj", "{03981B07-3AD1-4232-816A-802B121901E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditionNull", "conditionNull\conditionNull.csproj", "{270CACC2-C962-41D0-94F8-5A4192E2A171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conditionNull", "conditionNull\conditionNull.csproj", "{270CACC2-C962-41D0-94F8-5A4192E2A171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ref", "Ref\Ref.csproj", "{22C2E4C8-F047-42C4-BFAC-D75CEBC7E34D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDudar", "ClassDudar\ClassDudar.csproj", "{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassDudar", "ClassDudar\ClassDudar.csproj", "{AF615C63-D7E9-40A0-BA4B-7897C2C0E433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructDudar", "StructDudar\StructDudar.csproj", "{7B48D926-F54F-45E5-93E7-4A6BBE32D0AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructDudar", "StructDudar\StructDudar.csproj", "{7B48D926-F54F-45E5-93E7-4A6BBE32D0AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkResize", "HomeWorkResize\HomeWorkResize.csproj", "{DCE6C95E-9F62-476C-BDEE-F604906D4609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkResize", "HomeWorkResize\HomeWorkResize.csproj", "{DCE6C95E-9F62-476C-BDEE-F604906D4609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingElementsInArray", "AddingElementsInArray\AddingElementsInArray.csproj", "{76A83F71-0EFA-4988-87B4-CC7BE6023DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddingElementsInArray", "AddingElementsInArray\AddingElementsInArray.csproj", "{76A83F71-0EFA-4988-87B4-CC7BE6023DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deleteElementFromArray", "deleteElementFromArray\deleteElementFromArray.csproj", "{FD57E375-51ED-462F-9F84-6BF632028A42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deleteElementFromArray", "deleteElementFromArray\deleteElementFromArray.csproj", "{FD57E375-51ED-462F-9F84-6BF632028A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutRefLesson", "OutRefLesson\OutRefLesson.csproj", "{F3FDC6C9-C7A3-4793-9070-B457288E94C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InLesson", "InLesson\InLesson.csproj", "{9284F1E7-2693-456E-8A15-9F6E8EA37995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +277,14 @@ Global
 		{FD57E375-51ED-462F-9F84-6BF632028A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD57E375-51ED-462F-9F84-6BF632028A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD57E375-51ED-462F-9F84-6BF632028A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FDC6C9-C7A3-4793-9070-B457288E94C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FDC6C9-C7A3-4793-9070-B457288E94C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FDC6C9-C7A3-4793-9070-B457288E94C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FDC6C9-C7A3-4793-9070-B457288E94C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9284F1E7-2693-456E-8A15-9F6E8EA37995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9284F1E7-2693-456E-8A15-9F6E8EA37995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9284F1E7-2693-456E-8A15-9F6E8EA37995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9284F1E7-2693-456E-8A15-9F6E8EA37995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
