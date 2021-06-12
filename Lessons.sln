@@ -91,9 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddingElementsInArray", "Ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deleteElementFromArray", "deleteElementFromArray\deleteElementFromArray.csproj", "{FD57E375-51ED-462F-9F84-6BF632028A42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutRefLesson", "OutRefLesson\OutRefLesson.csproj", "{F3FDC6C9-C7A3-4793-9070-B457288E94C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutRefLesson", "OutRefLesson\OutRefLesson.csproj", "{F3FDC6C9-C7A3-4793-9070-B457288E94C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InLesson", "InLesson\InLesson.csproj", "{9284F1E7-2693-456E-8A15-9F6E8EA37995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InLesson", "InLesson\InLesson.csproj", "{9284F1E7-2693-456E-8A15-9F6E8EA37995}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsLesson", "ParamsLesson\ParamsLesson.csproj", "{9723C241-28F1-4A0C-9C9E-47F5305C6796}"
 EndProject
@@ -102,6 +102,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotNecessaryParams", "NotNecessaryParams\NotNecessaryParams.csproj", "{B2AB9992-AB22-4DD5-891B-E657315ADE5F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionLesson", "RecursionLesson\RecursionLesson.csproj", "{0D11AEB7-DB38-4134-88EE-A5A4F11DADA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionArray", "RecursionArray\RecursionArray.csproj", "{4CCFE6C8-F582-47B0-B8F9-27F8D57FD550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumElements", "SumElements\SumElements.csproj", "{9AB80213-16D3-47F2-9DE5-524FE356CE10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSumOfNumbersRecursionLesson", "FindSumOfNumbersRecursionLesson\FindSumOfNumbersRecursionLesson.csproj", "{A6094715-F370-4541-B725-9A6C4822B1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionTypeLesson", "ConversionTypeLesson\ConversionTypeLesson.csproj", "{42E328AE-558F-464A-AB65-C31A6CD4CAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverFlow", "OverFlow\OverFlow.csproj", "{9216F661-2B8B-4AAC-9F9D-C176FE33513E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -309,6 +319,26 @@ Global
 		{0D11AEB7-DB38-4134-88EE-A5A4F11DADA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D11AEB7-DB38-4134-88EE-A5A4F11DADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D11AEB7-DB38-4134-88EE-A5A4F11DADA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCFE6C8-F582-47B0-B8F9-27F8D57FD550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCFE6C8-F582-47B0-B8F9-27F8D57FD550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCFE6C8-F582-47B0-B8F9-27F8D57FD550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCFE6C8-F582-47B0-B8F9-27F8D57FD550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB80213-16D3-47F2-9DE5-524FE356CE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB80213-16D3-47F2-9DE5-524FE356CE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB80213-16D3-47F2-9DE5-524FE356CE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB80213-16D3-47F2-9DE5-524FE356CE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6094715-F370-4541-B725-9A6C4822B1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6094715-F370-4541-B725-9A6C4822B1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6094715-F370-4541-B725-9A6C4822B1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6094715-F370-4541-B725-9A6C4822B1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E328AE-558F-464A-AB65-C31A6CD4CAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E328AE-558F-464A-AB65-C31A6CD4CAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E328AE-558F-464A-AB65-C31A6CD4CAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E328AE-558F-464A-AB65-C31A6CD4CAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9216F661-2B8B-4AAC-9F9D-C176FE33513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9216F661-2B8B-4AAC-9F9D-C176FE33513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9216F661-2B8B-4AAC-9F9D-C176FE33513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9216F661-2B8B-4AAC-9F9D-C176FE33513E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

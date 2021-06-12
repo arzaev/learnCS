@@ -20,6 +20,7 @@ namespace RecursionLesson
 
         static void Main(string[] args)
         {
+            // StackOverFlow
             Foo(0);
         }
     }
