@@ -50,11 +50,6 @@ namespace enumLesson
 
             Console.WriteLine((int)dayOfWeek);
 
-            
-
-
-
-           
 
             var values = Enum.GetValues(typeof(DayOfWeek));
 
@@ -66,6 +61,26 @@ namespace enumLesson
             string str = Console.ReadLine();
             DayOfWeek _dayOfWeek = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), str, ignoreCase: true);
             Console.WriteLine(_dayOfWeek);
+
+            switch (_dayOfWeek)
+            {
+                case DayOfWeek.Monday:
+                    break;
+                case DayOfWeek.Tuesday:
+                    break;
+                case DayOfWeek.Wednesday:
+                    break;
+                case DayOfWeek.Thursday:
+                    break;
+                case DayOfWeek.Friday:
+                    break;
+                case DayOfWeek.Saturday:
+                    break;
+                case DayOfWeek.Sunday:
+                    break;
+                default:
+                    break;
+            }
 
 
             Console.ReadLine();

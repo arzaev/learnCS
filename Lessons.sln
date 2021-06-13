@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "varLesson", "varLesson\varL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumLesson", "enumLesson\enumLesson.csproj", "{392FCD50-1F46-4695-82E8-E7E86E7804BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLesson", "OOPLesson\OOPLesson.csproj", "{620D3A97-A723-48C1-8EC1-5B86D75034A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{392FCD50-1F46-4695-82E8-E7E86E7804BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392FCD50-1F46-4695-82E8-E7E86E7804BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392FCD50-1F46-4695-82E8-E7E86E7804BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620D3A97-A723-48C1-8EC1-5B86D75034A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620D3A97-A723-48C1-8EC1-5B86D75034A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620D3A97-A723-48C1-8EC1-5B86D75034A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620D3A97-A723-48C1-8EC1-5B86D75034A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
