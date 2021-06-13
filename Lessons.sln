@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classMethodsOOPLesson", "cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{807DF0B1-B674-4930-BE25-51B8F9A855B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationOOPlesson", "EncapsulationOOPlesson\EncapsulationOOPlesson.csproj", "{BFA6F6A1-29E7-4F52-AAE6-5F369BC89FEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{807DF0B1-B674-4930-BE25-51B8F9A855B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{807DF0B1-B674-4930-BE25-51B8F9A855B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{807DF0B1-B674-4930-BE25-51B8F9A855B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA6F6A1-29E7-4F52-AAE6-5F369BC89FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA6F6A1-29E7-4F52-AAE6-5F369BC89FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA6F6A1-29E7-4F52-AAE6-5F369BC89FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA6F6A1-29E7-4F52-AAE6-5F369BC89FEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
