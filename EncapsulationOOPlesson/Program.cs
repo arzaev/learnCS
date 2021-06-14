@@ -9,27 +9,33 @@ namespace EncapsulationOOPlesson
 
     class Gun
     {
-        private bool isLoaded;
+
+        public Gun(bool isLoaded)
+        {
+            _isLoaded = isLoaded;
+        }
+
+        private bool _isLoaded;
 
         private void Reload()
         {
             Console.WriteLine("Load...");
 
-            isLoaded = true;
+            _isLoaded = true;
 
             Console.WriteLine("Loaded!");
         }
 
         public void Shoot()
         {
-            if (!isLoaded)
+            if (!_isLoaded)
             {
                 Console.WriteLine("Gun is not loaded");
                 Reload();
             }
 
             Console.WriteLine("Shot - shot\n");
-            isLoaded = false;
+            _isLoaded = false;
         }
     }
 
@@ -37,7 +43,7 @@ namespace EncapsulationOOPlesson
     {
         static void Main(string[] args)
         {
-            Gun gun = new Gun();
+            Gun gun = new Gun(isLoaded: false);
             gun.Shoot();
             Console.ReadLine();
         }
