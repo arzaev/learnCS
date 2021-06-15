@@ -135,6 +135,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThisOOPlesson", "ThisOOPles
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesOOPlesson", "PropertiesOOPlesson\PropertiesOOPlesson.csproj", "{B7BCED74-C4C7-4250-AFFB-CF0762306D18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticOOPlesson", "staticOOPlesson\staticOOPlesson.csproj", "{0BDE7A84-2010-4856-A823-9F5D9343004F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticConstructorOOPlesson", "staticConstructorOOPlesson\staticConstructorOOPlesson.csproj", "{FEB29693-48E5-4AB8-AF92-5D8183D7E5A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +409,14 @@ Global
 		{B7BCED74-C4C7-4250-AFFB-CF0762306D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7BCED74-C4C7-4250-AFFB-CF0762306D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7BCED74-C4C7-4250-AFFB-CF0762306D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDE7A84-2010-4856-A823-9F5D9343004F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDE7A84-2010-4856-A823-9F5D9343004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDE7A84-2010-4856-A823-9F5D9343004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDE7A84-2010-4856-A823-9F5D9343004F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB29693-48E5-4AB8-AF92-5D8183D7E5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB29693-48E5-4AB8-AF92-5D8183D7E5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB29693-48E5-4AB8-AF92-5D8183D7E5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB29693-48E5-4AB8-AF92-5D8183D7E5A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
