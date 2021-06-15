@@ -6,16 +6,31 @@ using System.Threading.Tasks;
 
 namespace staticClassLesson
 {
-    class MyClass
+    static class MyClass
     {
+        static MyClass()
+        {
 
+        }
+
+        public static void Foo()
+        {
+            Console.WriteLine("Foo");
+        }
+
+        public static void Bar()
+        {
+
+        }
+
+        public static int a;
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            MyClass myClass = new MyClass();
+            
         }
     }
 }
