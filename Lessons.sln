@@ -153,6 +153,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceOOPlesson", "Inh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baseClass", "base\baseClass.csproj", "{6B3D5B85-5A57-4299-891D-1F15C5E3B493}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asis", "asis\asis.csproj", "{3462FD5C-BE7E-4C6F-BE8B-A4634B15D388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritanceAccessModifiers", "inheritanceAccessModifiers\inheritanceAccessModifiers.csproj", "{4836A119-B509-4548-97CB-053D6E86809E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismOOP", "PolymorphismOOP\PolymorphismOOP.csproj", "{FA11F0FC-9B6B-4458-801D-0E8647E1EC1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +465,18 @@ Global
 		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3462FD5C-BE7E-4C6F-BE8B-A4634B15D388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3462FD5C-BE7E-4C6F-BE8B-A4634B15D388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3462FD5C-BE7E-4C6F-BE8B-A4634B15D388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3462FD5C-BE7E-4C6F-BE8B-A4634B15D388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4836A119-B509-4548-97CB-053D6E86809E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4836A119-B509-4548-97CB-053D6E86809E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4836A119-B509-4548-97CB-053D6E86809E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4836A119-B509-4548-97CB-053D6E86809E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA11F0FC-9B6B-4458-801D-0E8647E1EC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA11F0FC-9B6B-4458-801D-0E8647E1EC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA11F0FC-9B6B-4458-801D-0E8647E1EC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA11F0FC-9B6B-4458-801D-0E8647E1EC1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
