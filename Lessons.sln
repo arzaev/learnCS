@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitObjects", "InitObjects\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceOOPlesson", "InheritanceOOPlesson\InheritanceOOPlesson.csproj", "{409CD4DE-697A-4949-B64A-82610279F330}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baseClass", "base\baseClass.csproj", "{6B3D5B85-5A57-4299-891D-1F15C5E3B493}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +455,10 @@ Global
 		{409CD4DE-697A-4949-B64A-82610279F330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{409CD4DE-697A-4949-B64A-82610279F330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{409CD4DE-697A-4949-B64A-82610279F330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3D5B85-5A57-4299-891D-1F15C5E3B493}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
